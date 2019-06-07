@@ -1,0 +1,21 @@
+   
+   .div-tabla{
+   	border: 1px solid black;
+    width: 500px;
+    height: auto;
+    min-height: 20px;
+
+	} 
+	.div-boton{
+   	border: 1px solid #ffffff2e;
+    width: fit-content;
+    padding: 15px;
+    min-height: 20px;
+    border-radius: 3px;
+    margin-top: 5px;
+    background-color: #81C784;
+    color: #fff;
+    font-size: 18px;
+    cursor:pointer;
+	}
+
